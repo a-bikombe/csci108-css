@@ -12,13 +12,7 @@ SHTML labs from my second semester at NCC.
 
 ## Getting Started
 
-### Dependencies
-
-No dependencies.
-
-### Setup
-
-* Deployment: Must be run with a local server
+Deployment: Must be run with a local server
 
 ## Version History
 
